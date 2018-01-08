@@ -9,6 +9,7 @@ using namespace std;
 
 int main()
 {
+	cout << "I AM VERY LASY";
     return 0;
 }
 
