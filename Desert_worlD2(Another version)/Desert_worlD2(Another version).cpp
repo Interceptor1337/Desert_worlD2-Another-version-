@@ -10,6 +10,7 @@ using namespace std;
 int main()
 {
     cout << "I AM VERY LASY";
+	cout << "sheet";
     return 0;
 }
 
