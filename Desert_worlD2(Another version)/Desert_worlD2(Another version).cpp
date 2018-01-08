@@ -1,4 +1,4 @@
-// Desert_worlD2(Another version).cpp: определяет точку входа для консольного приложения.
+// Desert_worlD2(Another version).cpp: Г®ГЇГ°ГҐГ¤ГҐГ«ГїГҐГІ ГІГ®Г·ГЄГі ГўГµГ®Г¤Г  Г¤Г«Гї ГЄГ®Г­Г±Г®Г«ГјГ­Г®ГЈГ® ГЇГ°ГЁГ«Г®Г¦ГҐГ­ГЁГї.
 //
 
 #include "stdafx.h"
@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	cout << "I AM VERY LASY";
+    cout << "I AM VERY LASY";
     return 0;
 }
 
