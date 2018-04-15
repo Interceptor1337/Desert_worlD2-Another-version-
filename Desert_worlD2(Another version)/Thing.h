@@ -3,6 +3,8 @@
 class Thing :
 	public DObject
 {
+private:
+	int amount;
 public:
 	Thing();
 	~Thing();

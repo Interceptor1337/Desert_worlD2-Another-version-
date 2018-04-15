@@ -34,6 +34,10 @@ Bot::Bot(int _x, int _y)
 	texture = '&';
 }
 
+Bot::Bot()
+{
+}
+
 
 Bot::~Bot()
 {

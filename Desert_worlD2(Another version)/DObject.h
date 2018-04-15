@@ -6,9 +6,9 @@ protected:
 	int y;
 	char texture;
 public:
-	virtual int getX() = 0;
-	virtual int getY() = 0;
-	virtual char getTexture() = 0;
+	virtual int getX();
+	virtual int getY();
+	virtual char getTexture();
 	DObject();
 	~DObject();
 };

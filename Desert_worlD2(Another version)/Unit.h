@@ -4,9 +4,11 @@ class Unit :
 	public DObject
 {
 public:
-	virtual void walk(int x,int y)=0;
+	virtual void walk(int x,int y);
+	virtual void Life();
 	int getX();
 	int getY();
+	char getTexture();
 	Unit();
 	~Unit();
 };

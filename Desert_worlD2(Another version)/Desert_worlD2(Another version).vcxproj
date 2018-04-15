@@ -147,6 +147,10 @@
   <ItemGroup>
     <ClInclude Include="Bot.h" />
     <ClInclude Include="DObject.h" />
+    <ClInclude Include="Map.h" />
+    <ClInclude Include="MapCell.h" />
+    <ClInclude Include="NPC.h" />
+    <ClInclude Include="Player.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="Thing.h" />
@@ -156,6 +160,10 @@
     <ClCompile Include="Bot.cpp" />
     <ClCompile Include="Desert_worlD2(Another version).cpp" />
     <ClCompile Include="DObject.cpp" />
+    <ClCompile Include="Map.cpp" />
+    <ClCompile Include="MapCell.cpp" />
+    <ClCompile Include="NPC.cpp" />
+    <ClCompile Include="Player.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
